@@ -29,7 +29,7 @@ _______________   _______________
 /       \  \_/   \/       \  \_/   \                                               
 \_______ \_____  /\_______ \_____  /                                               
         \/     \/         \/     \/                                          ```
-
+```
 Sigma converter in bash for Elasalert with Elasticsearch 6.8 field mappings.
 
 # usage
