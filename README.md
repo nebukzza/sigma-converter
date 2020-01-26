@@ -39,4 +39,4 @@ use -v for verbose
 
 
 # rules
-Converted rules are in folder elastalert
+Converted rules are in zip
