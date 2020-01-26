@@ -31,7 +31,7 @@ _______________   _______________
 \_______ \_____  /\_______ \_____  /                                               
         \/     \/         \/     \/                                          ```
 ```
-Sigma converter in bash for Elasalert with Elasticsearch 6.8 field mappings.
+Sigma batch wrapper converter in bash for Elasalert with Elasticsearch 6.X field mappings.
 
 # usage
 Will loop all files from sigma-repo
