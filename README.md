@@ -1,4 +1,4 @@
-# sigma-converter
+# converter-sigma2elastalert.sh
 ```
 \__    ___/   |   \_   _____/                                                      
   |    | /    ~    \    __)_                                                       
